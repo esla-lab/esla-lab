@@ -1,0 +1,162 @@
+body{
+	background-image: url(fons1.jpg);
+	background-position: right top;
+	background-attachment: fixed;
+	font-family: 'Bokonique';
+}
+@font-face{
+	font-family: 'Bokonique';
+	src: url(fonts/Bokonique.ttf);
+}
+.header{
+	display: flex;
+	background-color: #e3642d;
+	border-radius: 15px;
+}
+.icon{
+	display: flex;
+	margin: 15px 200px;
+}
+.img1{
+	width: 80px;
+	height: 80px;
+}
+.a1{
+	text-decoration: none;
+	font-size: 20px;
+	border-bottom: orange solid;
+	padding: 5px;
+	color: black;
+}
+.a2{
+	text-decoration: none;
+	font-size: 20px;
+	border-bottom: solid;
+	padding: 5px;
+	color: black;
+}
+.a2:hover{
+	border-bottom: orange solid;
+}
+.a3{
+	text-decoration: none;
+	font-size: 15px;
+	padding: 20px 40px;
+	background-color: orange; 
+	border-radius: 5px;
+	color: white;
+	margin: 50px 20px;
+	transition: .4s ease-in-out;
+}
+.a3:hover{
+	background-color: #3b1206; 
+}
+.t2{
+	text-decoration: none;
+	color: black;
+	font-size: 35px;
+	margin: 18px 5px;
+}
+.link{
+	margin-left: 200px;
+	margin-top: 45px;
+}
+.v1{
+	display: flex;
+}
+.img2{
+	width: 200px;
+	height: 200px;
+	margin:100px;
+}
+.t4{
+	color: black;
+	background-color: #2438d1;
+	border-radius: 15px;
+	text-align: center;
+}
+.v11{
+	margin: 25px 200px;
+}
+.p1{
+	padding: 15px;
+	border-radius: 5px;
+	background-color: white;
+	border-style: solid;
+	text-align: justify;
+}
+.t5{
+	color: black;
+	background-color: white;
+	border-radius: 15px;
+	text-align: center;
+}
+.t6{
+	color: black;
+	background-color: purple;
+	border-radius: 15px;
+	text-align: center;
+}
+.t8{
+	color: black;
+	background-color: green;
+	border-radius: 15px;
+	text-align: center;
+}
+.t10{
+	color: black;
+	background-color: #d92607;
+	border-radius: 15px;
+	text-align: center;
+}
+.t7{
+	color: black;
+	background-color: blue;
+	border-radius: 15px;
+	text-align: center;
+}
+.footer{
+	display: flex;
+	background-color: #e3642d;
+	border-radius: 15px;
+	margin-top: 30px;
+}
+.a4{
+	width: 30px;
+	height: 30px;
+	margin: 0px 5px;
+}
+.a5{
+	width: 30px;
+	height: 30px;
+	margin: 0px 5px;
+}
+.a6{
+	width: 30px;
+	height: 30px;
+	margin: 0px 5px;
+}
+.a4:hover{
+	border: 1px orange solid;
+	border-radius: 10px;
+}
+.a5:hover{
+	border: 1px orange solid;
+	border-radius: 10px;
+}
+.a6:hover{
+	border: 1px orange solid;
+	border-radius: 10px;
+}
+.prava{
+	margin-left: 650px;
+}
+.t3{
+	font-size: 100px;
+	text-align: center;
+	padding: 15px;
+	border-radius: 5px;
+}
+.links{
+	margin: 15px 30px;
+}

@@ -1,0 +1,140 @@
+body{
+	background-image: url(https://www.anker.com/dist/u5-MsproVK.gif);
+	background-position: right top;
+	background-attachment: fixed;
+	font-family: 'Bokonique';
+}
+@font-face{
+	font-family: 'Bokonique';
+	src: url(fonts/Bokonique.ttf);
+}
+.header{
+	display: flex;
+}
+.header1{
+	margin-left: 200px;
+}
+.header2{
+	margin-left: 150px;
+	margin-top: 20px;
+}
+.img1{
+	width: 200px;
+	height: 200px;
+}
+.t1{
+	text-decoration: none;
+	font-size: 100px;
+	color: white;
+	font-weight: bold;
+}
+.tt1{
+	margin-left: 200px;
+}
+.t2{
+	color: white;
+	font-size: 40px;
+}
+.tt2{
+	margin: 10px 580px;
+}
+.t3{
+	color: white;
+	font-size: 35px;
+}
+.top{
+	margin-left: 350px;
+	margin-top: 100px;
+}
+.a1	{
+	text-decoration: none;
+	color: white;
+	border-radius: 15px;
+	border: 2px solid;
+	font-size: 25px;
+	background-color: #2566cf;
+	padding: 15px;
+	transition: .3s ease-in-out;
+}
+.normal{
+	margin-left: 350px;
+	margin-top: 100px;
+}
+.a2	{
+	text-decoration: none;
+	color: white;
+	border-radius: 15px;
+	border: 2px solid;
+	font-size: 25px;
+	background-color: #e3642d;
+	padding: 15px;
+	padding-left: 25px;
+	transition: .3s ease-in-out;
+}
+.bottom{
+	margin-left: 350px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.a3	{
+	text-decoration: none;
+	color: white;
+	border-radius: 15px;
+	border: 2px solid;
+	font-size: 21.5px;
+	background-color: #ae3eb3;
+	padding: 15px;
+	padding-top: 17px; 
+	padding-bottom: 17px;
+	transition: .3s ease-in-out;
+}
+.a1:hover{
+	background-color: #134391;
+}
+.a2:hover{
+	background-color: #732c0e;
+}
+.a3:hover{
+	background-color: #651669;
+}
+.footer{
+	display: flex;
+	margin-top: 30px;
+}
+.links{
+	margin: 15px 30px;
+}
+.rights{
+	margin-left: 650px;
+}
+.a4{
+	width: 30px;
+	height: 30px;
+	margin: 0px 5px;
+}
+.a5{
+	width: 30px;
+	height: 30px;
+	margin: 0px 5px;
+}
+.a6{
+	width: 30px;
+	height: 30px;
+	margin: 0px 5px;
+}
+.a4:hover{
+	border: 1px white solid;
+	border-radius: 10px;
+}
+.a5:hover{
+	border: 1px white solid;
+	border-radius: 10px;
+}
+.a6:hover{
+	border: 1px white solid;
+	border-radius: 10px;
+}
+.rightstext{
+	color: white;
+	text-shadow: 5px 5px 3px black;
+}

@@ -1,0 +1,133 @@
+body{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/9f/Asia-tropical-island-exotic-paradise-turquoise-ocean-sea-empty-holidays-tiket2.jpg) ;
+	background-position: right top;
+	background-attachment: fixed;
+	font-family: 'Bokonique';
+}
+@font-face{
+	font-family: 'Bokonique';
+	src: url(fonts/Bokonique.ttf);
+}
+.header{
+	display: flex;
+	background-color: #2566cf;
+	border-radius: 15px;
+}
+.icon{
+	display: flex;
+	margin: 15px 200px;
+}
+.link{
+	margin-left: 200px;
+	margin-top: 45px;
+}
+.t1{
+
+}
+.content{
+	display: flex;
+}
+.img1{
+	margin-top: 15px; 
+}
+.t2{
+
+}
+.footer{
+	display: flex;
+	background-color: #2566cf;
+	border-radius: 15px;
+	margin-top: 30px;
+}
+.links{
+	margin: 15px 30px;
+}
+.prava{
+	margin-left: 650px;
+}
+.icon1{
+	width: 80px;
+	height: 80px;
+}
+.a1{
+	text-decoration: none;
+	font-size: 20px;
+	border-bottom: blue solid;
+	padding: 5px;
+	color: black;
+}
+.a2{
+	text-decoration: none;
+	font-size: 20px;
+	border-bottom: solid;
+	padding: 5px;
+	color: black;
+}
+.a2:hover{
+	border-bottom: blue solid;
+}
+.a3{
+	text-decoration: none;
+	font-size: 15px;
+	padding: 20px 40px;
+	background-color: blue; 
+	border-radius: 5px;
+	color: white;
+	margin: 50px 20px;
+	transition: .4s ease-in-out;
+}
+.a3:hover{
+	background-color: #0a0d4d; 
+}
+.t4{
+	font-size: 100px;
+	text-align: center;
+	padding: 15px;
+	border-radius: 5px;
+}
+.p1{
+	padding: 15px;
+	border-radius: 5px;
+	background-color: white;
+	border-style: solid;
+	text-align: justify;
+	margin-left: 30px;
+}
+.img2{
+	width: 700px;
+	height: 490px;
+	border-radius: 5px;
+}
+.a4{
+	width: 30px;
+	height: 30px;
+	margin: 0px 5px;
+}
+.a5{
+	width: 30px;
+	height: 30px;
+	margin: 0px 5px;
+}
+.a6{
+	width: 30px;
+	height: 30px;
+	margin: 0px 5px;
+}
+.a4:hover{
+	border: 1px blue solid;
+	border-radius: 10px;
+}
+.a5:hover{
+	border: 1px blue solid;
+	border-radius: 10px;
+}
+.a6:hover{
+	border: 1px blue solid;
+	border-radius: 10px;
+}
+.t3{
+	text-decoration: none;
+	color: black;
+	font-size: 35px;
+	margin: 18px 5px;
+}
